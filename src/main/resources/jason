@@ -1,0 +1,30 @@
+{
+  "petStoreName": "Really Cool Pet Store",
+  "petStoreAddress": "8395 North Bladford Lane",
+  "petStoreCity": "Gangrene",
+  "petStoreState": "Georgia",
+  "petStoreZip" : "12345",
+  "petStorePhone": "303-322-4995"
+}
+
+{
+  "customerFirstName": "Tony",
+  "customerLastName": "Baloney",
+  "customerEmail": "tony@noodellas.r.us"
+}
+
+{
+  "employeeFirstName": "Samantha",
+  "employeeLastName": "Burns",
+  "employeeEmail": "samantha_burns@ngo.gov",
+  "employeeJobTitle": "Manager"
+}
+
+{
+  "petStoreName": "Super Groovy Pet Store",
+  "petStoreAddress": "8395 North Bladford Lane",
+  "petStoreCity": "Gangrene",
+  "petStoreState": "Georgia",
+  "petStoreZip" : "12345",
+  "petStorePhone": "303-322-4995"
+}
